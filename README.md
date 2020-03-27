@@ -3,7 +3,7 @@ An extremely basic battle simulator I did for college. It's pretty terrible.
 
 ## What the hell is this?
 I had to make a game for college. In C++. I was originally gonna reuse my [`playerobject` project](https://github.com/CutieGorlAstrid/playerobject), but that was done in Python, and the requirements asked for C++ in particular, so I had to come up with something on my own.
-Based off of my aforementioned project, but fundamentally different, this project was intended to be an RPG game. Since I **really** suck at C++, and considering the deadline, it's now *Extremely Basic Battle Simulator*, obviously ~~ripping off~~ inspired by Landfall Games' *Totally Accurate Battle Simulator*.
+Based off of my aforementioned project, but fundamentally different, this project was intended to be an RPG game. Since I **really** suck at C++, and considering the deadline, it's now *Extremely Basic Battle Simulator*, obviously ~~ripping off~~ inspired by the title of Landfall Games' *Totally Accurate Battle Simulator*.
 
 ## Extremely basic?
 Yeah, you heard me. This consists of **one C++ program** that works via command-line. It also uses cross-platform stuff, so you can compile and run it with basically anything that supports C++11.
