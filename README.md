@@ -20,3 +20,23 @@ If you just wanna run the code without the hassle of using the command line, you
 
 ### For people who are completely clueless
 If you can't even do *that*, you can run the code at [repl.it](https://repl.it/@SpeedStriker243/ExtremelyBasicBattleSimulator).
+
+### Bruh
+Seriously? Too lazy to click a link? Alright, fine, I'll show you some output...
+```
+Astrid challenges Enemy to a fight!
+
+Astrid attacks! Dealt 50 points of damage!
+Enemy received 50 points of damage! Enemy now has 100 points of health!
+
+Enemy attacks! Dealt 20 points of damage!
+Astrid received 20 points of damage! Astrid now has 100 points of health!
+
+Astrid attacks! Dealt 50 points of damage!
+Enemy received 50 points of damage! Enemy now has 50 points of health!
+
+Enemy attacks! Dealt 20 points of damage!
+Astrid received 20 points of damage! Astrid now has 80 points of health!
+
+Enemy has been defeated! Victory!
+```
