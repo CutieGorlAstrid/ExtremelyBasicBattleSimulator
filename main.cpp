@@ -88,9 +88,10 @@ int main() {
     }
 
     std::cout << Player1.name << " challenges " << Enemy1.name << " to a fight!\n" << std::endl;
-    std::this_thread::sleep_for(std::chrono::milliseconds(1500));
+    std::this_thread::sleep_for(std::chrono::milliseconds(1500)); // This makes the program wait for 1.5 seconds
 
     while (Enemy1.health > 0 & Player1.health > 0) {
+    // This loop ends whenever either the player or enemy runs out of health.
         Player1.Attack();
         Enemy1.Damage(Player1.attack);
         std::this_thread::sleep_for(std::chrono::milliseconds(500));
@@ -100,9 +101,9 @@ int main() {
         std::this_thread::sleep_for(std::chrono::milliseconds(1000));
     }
     if (Enemy1.health < 1) {
-        std::cout << Enemy1.name << " has been defeated! Victory!" << std::endl;
+        std::cout << Enemy1.name << " has been defeated! " << Player1.name << " wins!" << std::endl;
     }
     if (Player1.health < 1) {
-        std::cout << Player1.name << " has been defeated! Failure!" << std::endl;
+        std::cout << Player1.name << " has been defeated! " << Enemy1.name << " wins!" << std::endl;
     }
 }
