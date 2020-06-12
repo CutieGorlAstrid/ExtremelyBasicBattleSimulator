@@ -24,19 +24,19 @@ If you can't even do *that*, you can run the code at [repl.it](https://repl.it/@
 ### Bruh
 Seriously? Too lazy to click a link? Alright, fine, I'll show you some output...
 ```
-Astrid challenges Enemy to a fight!
+SpeedX243 challenges Enemy to a fight!
 
-Astrid attacks! Dealt 50 points of damage!
+SpeedX243 attacks! Dealt 50 points of damage!
 Enemy received 50 points of damage! Enemy now has 100 points of health!
 
 Enemy attacks! Dealt 20 points of damage!
-Astrid received 20 points of damage! Astrid now has 100 points of health!
+SpeedX243 received 20 points of damage! SpeedX243 now has 100 points of health!
 
-Astrid attacks! Dealt 50 points of damage!
+SpeedX243 attacks! Dealt 50 points of damage!
 Enemy received 50 points of damage! Enemy now has 50 points of health!
 
 Enemy attacks! Dealt 20 points of damage!
-Astrid received 20 points of damage! Astrid now has 80 points of health!
+SpeedX243 received 20 points of damage! SpeedX243 now has 80 points of health!
 
 Enemy has been defeated! Victory!
 ```
